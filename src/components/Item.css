@@ -1,0 +1,7 @@
+.expense{
+    border-right: 10px outset red;
+}
+
+.income{
+    border-right: 10px outset rgb(76, 231, 76);
+}
